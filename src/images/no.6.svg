@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299.999" height="311" viewBox="0 0 299.999 311">
+  <defs>
+    <filter id="Rectangle_14" x="0" y="0" width="299.999" height="311" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff5167"/>
+      <stop offset="1" stop-color="#ff9134"/>
+    </linearGradient>
+  </defs>
+  <g id="no.6" transform="translate(-481 -138)">
+    <g transform="matrix(1, 0, 0, 1, 481, 138)" filter="url(#Rectangle_14)">
+      <rect id="Rectangle_14-2" data-name="Rectangle 14" width="281.999" height="293" rx="8" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <path id="Rectangle_12" data-name="Rectangle 12" d="M8,0H274a8,8,0,0,1,8,8V109a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(490 144)" fill="url(#linear-gradient)"/>
+    <text id="恭喜中奖啦_" data-name="恭喜中奖啦！" transform="translate(640 212)" fill="#fff" font-size="30" font-family="FZYTK--GBK1-0, FZYaoTi" letter-spacing="0.06em"><tspan x="-94.5" y="0">恭喜中奖啦！</tspan></text>
+    <text id="六等奖" transform="translate(631 355)" fill="#9f3333" font-size="50" font-family="FZYTK--GBK1-0, FZYaoTi" letter-spacing="0.06em"><tspan x="-78" y="0">六等奖</tspan></text>
+    <text id="奖金已发放至您的钱包账户" transform="translate(631 428)" fill="#c2c2c2" font-size="12" font-family="MicrosoftYaHei, Microsoft YaHei" letter-spacing="0.06em"><tspan x="-75.96" y="0">奖金已发放至您的钱包账户</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="235.377" height="249.077" viewBox="0 0 235.377 249.077">
+  <defs>
+    <filter id="Rectangle_14" x="0" y="0" width="235.377" height="249.077" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Failed" transform="translate(-481 -138.077)">
+    <g transform="matrix(1, 0, 0, 1, 481, 138.08)" filter="url(#Rectangle_14)">
+      <rect id="Rectangle_14-2" data-name="Rectangle 14" width="217.377" height="231.077" rx="8" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <path id="Rectangle_12" data-name="Rectangle 12" d="M8,0H209.377a8,8,0,0,1,8,8V87.682a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(490 144.077)" fill="#81736c"/>
+    <text id="抱歉未中奖" transform="translate(604.752 198.568)" fill="#fff" font-size="24" font-family="FZYTK--GBK1-0, FZYaoTi" letter-spacing="0.06em"><tspan x="-62.88" y="0">抱歉未中奖</tspan></text>
+    <text id="再接再厉" transform="translate(596.764 308.177)" fill="#9f3333" font-size="37" font-family="FZYTK--GBK1-0, FZYaoTi" letter-spacing="0.06em"><tspan x="-77.33" y="0">再接再厉</tspan></text>
+  </g>
+</svg>
